@@ -1,2 +1,2 @@
 # sdm-deb-builder
-A bash scrip to build a debian package to be installed with dpkg
+A bash scrip to build sdm debian package to be installed with dpkg
